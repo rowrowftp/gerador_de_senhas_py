@@ -1,6 +1,6 @@
 # Gerador de Senha Fortes
 
-Gerador de senhas fortes, gera senhas com caracteres selecionados ou pré selecionados. Digite o tamanho da senha e os caracteres desejados, ou deixe em branco para preenchimento automático.
+Gerador de senhas fortes, gera senhas com caracteres selecionados ou pré-selecionados. Digite o tamanho da senha e os caracteres desejados, ou deixe em branco para preenchimento automático.
 
 
 ## Funções
