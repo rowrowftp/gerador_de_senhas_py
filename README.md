@@ -18,4 +18,4 @@ Gerador de senhas fortes, gera senhas com caracteres selecionados ou pré-seleci
 ## Instalação das dependências (Debian ou Ubuntu)
 
 ### Python 3.11
-    sudo apt-get install python3.11 
+    sudo apt-get install python3.11
