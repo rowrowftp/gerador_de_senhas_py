@@ -1,7 +1,6 @@
 from random import randint
 
 def gera_senha():
-
     tam = int(input("Digite o tamanho da senha (em números)\n> "))
     initial = input("\nDigite os caracteres na senha (deixe vazio para preenchimento automático)\n> ")
     auto = "abcdefghijklmnopqrstuvwxyz0123456789!@#$%¨&*()-_=+[]{}<>,.;:´`\/'"
